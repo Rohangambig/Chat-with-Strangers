@@ -1,5 +1,7 @@
 ﻿# Chat-with-Strangers
 
+ - Note :  Did not pushed my frontend code, only backend code is here ... 
+
 - Project live : https://celebrated-gelato-a0ec23.netlify.app/
 
 🚀 Just Built: Chat with Strangers — Real-time Group Chat App 🎯
@@ -19,5 +21,6 @@
  - 📝 Username prompt before joining — or embrace the mystery as Anonymous #123
 
 ## Kept the UI minimal — the spotlight’s on backend logic, scalability, and buttery-smooth real-time performance. 🛠️
+
 
 
